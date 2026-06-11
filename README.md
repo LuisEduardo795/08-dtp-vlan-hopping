@@ -113,7 +113,7 @@ show interfaces trunk
 ---
 
 ## Video Demostración
-[![Video](https://img.shields.io/badge/YouTube-Ver%20Video-red)](URL_DEL_VIDEO)
+https://youtu.be/13gFsTbe2Wk
 
 ---
 
