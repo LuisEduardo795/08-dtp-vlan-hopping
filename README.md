@@ -36,15 +36,15 @@ y luego enviar frames 802.1Q etiquetados hacia VLANs restringidas.
 
 ```
 [Ubuntu-Atacante]──e0/0──[SW-Core]──e0/1──[Linux-Victima VLAN 10]
- 192.168.1.50                          └──e0/2──[Linux-Victima VLAN 20]
+ 192.168.67.50                          └──e0/2──[Linux-Victima VLAN 20]
 ```
 
 | Dispositivo | Interfaz | VLAN | IP |
 |---|---|---|---|
-| Ubuntu-Atacante | ens3 | 1 | 192.168.1.50/24 |
+| Ubuntu-Atacante | ens3 | 1 | 192.168.67.50/24 |
 | SW-Core | e0/0 - e0/2 | — | — |
-| Linux-Victima 1 | ens3 | 10 | 192.168.10.10/24 |
-| Linux-Victima 2 | ens3 | 20 | 192.168.20.10/24 |
+| Linux-Victima 1 | ens3 | 10 | 192.168.67.60/24 |
+
 
 ---
 
