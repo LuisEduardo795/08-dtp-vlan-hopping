@@ -85,10 +85,13 @@ show dtp interface e0/0
 ## Capturas de Pantalla
 
 ### Ataque en ejecución
-![DTP ataque](capturas/dtp_ataque.png)
+<img width="725" height="480" alt="image" src="https://github.com/user-attachments/assets/1e87bf24-4fc6-40c5-b4ce-994ad988b584" />
+
+
 
 ### Puerto convertido en trunk
-![Trunk negociado](capturas/dtp_trunk.png)
+<img width="583" height="441" alt="image" src="https://github.com/user-attachments/assets/e4beb872-5f87-4ddd-95ec-457543564d5a" />
+
 
 ---
 
